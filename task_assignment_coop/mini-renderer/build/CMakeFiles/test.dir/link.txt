@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch x86_64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test.dir/tests/test_main.cpp.o CMakeFiles/test.dir/src/html_element.cpp.o CMakeFiles/test.dir/src/html_parser.cpp.o -o test

@@ -1,0 +1,4 @@
+/Users/anniesun/Downloads/task_assignment_coop/mini-renderer/build/CMakeFiles/mini-renderer.dir
+/Users/anniesun/Downloads/task_assignment_coop/mini-renderer/build/CMakeFiles/test.dir
+/Users/anniesun/Downloads/task_assignment_coop/mini-renderer/build/CMakeFiles/edit_cache.dir
+/Users/anniesun/Downloads/task_assignment_coop/mini-renderer/build/CMakeFiles/rebuild_cache.dir
