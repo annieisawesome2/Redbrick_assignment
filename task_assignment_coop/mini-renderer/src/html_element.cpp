@@ -8,8 +8,6 @@ void HTMLElement::addChild(const HTMLElement& element) {
 }
 
 void HTMLElement::render() const {
-    // TODO: Add implementation
-    //std::cout << "Render not yet implemented." << std::endl;
     size_t currentIndent = 0; 
     indentModel(currentIndent); 
 }
