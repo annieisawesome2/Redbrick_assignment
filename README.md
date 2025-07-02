@@ -1,4 +1,4 @@
-# Redbrick_assignment
+# Assignment deliverables
 
 ## Approach
 My initial approach to this problem was to use recursion, since building a tree-like structure by adding children to each element naturally lends itself to a recursive solution. However, I quickly pivoted to using a stack after realizing how well it fits the problem of detecting and handling closing tags. The stack allows me to efficiently keep track of the current element context, making it straightforward to maintain correct parent-child relationships as the HTML is parsed.
