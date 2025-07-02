@@ -39,7 +39,7 @@ HTMLElement HTMLParser::parse() {
             pos++; // > 
             elements.pop();  
         } else {
-            // CASE 4: closing tag
+            // CASE 4: text content
             // text: set text for element at stack.top()   
             size_t start = pos; // first char of tag
             while (content[pos] != '<') { 
